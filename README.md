@@ -7,7 +7,7 @@
  •Bike Share Data research
 
 ### Description
- •Analysis the data from the system to explore from several aspect.
+ •Analysis the data from the bike share system to explore from several aspect.
 
 ### Files used
  •chicago.csv
